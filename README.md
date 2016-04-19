@@ -1,5 +1,5 @@
 # covermake
-Sample Website --> http://trissino.net/covermake
+Sample Website --> http://luskjh.github.io/covermake
 
 A sample, static mockup I did.
 
